@@ -1,3 +1,4 @@
+
 body{
     background-color: aquamarine;
     text-align: center;
@@ -15,3 +16,21 @@ body{
 .font-gray{
     color: chocolate;
 }
+
+body {
+  background-color: linen;
+  text-align: center;
+}
+.brown {
+  background-color: brown;
+}
+#gray {
+  background-color: gray;
+}
+.font-gray {
+  color: gray;
+}
+#font-gray {
+  color: gray;
+}
+
